@@ -1,0 +1,41 @@
+{
+  "name": "run-my-project",
+  "version": "1.0.0",
+  "description": "App for listening to changes made in the file executed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjals149/Run-My-Project.git"
+  },
+  "keywords": [
+    "run",
+    "my",
+    "project",
+    "runmyproject",
+    "app",
+    "nodejs",
+    "javascript",
+    "js",
+    "process",
+    "monitor"
+  ],
+  "author": "Pranjal Srivastava <pranjals149@gmail.com> (https://github.com/pranjals149)",
+  "license": "ISC",
+  "bin": {
+    "runmyproject": "app.js"
+  },
+  "bugs": {
+    "url": "https://github.com/pranjals149/Run-My-Project/issues"
+  },
+  "homepage": "https://github.com/pranjals149/Run-My-Project#readme",
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "cfonts": "^2.9.1",
+    "chalk": "^4.1.0",
+    "chokidar": "^3.5.1",
+    "lodash.debounce": "^4.0.8"
+  }
+}
