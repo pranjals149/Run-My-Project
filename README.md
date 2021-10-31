@@ -1,6 +1,5 @@
 <h1 align='center'>Run-My-Project</h1>
 
-<p align='center' height = 400><img src='https://image.freepik.com/free-vector/man-running-with-blue-flowing-wave_1017-9202.jpg' /></p>
 
 This is the project mainly focussed on making the work of a developer as easy as possible. This project will listen to any changes made in the file executed and then start the process again without even terminating and re-running it. 
 
